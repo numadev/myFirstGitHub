@@ -1,4 +1,4 @@
-//
+//　修正してみた
 //  SIS_AppDelegate.m
 //  myFirstGitHub
 //
